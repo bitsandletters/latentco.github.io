@@ -1,0 +1,2 @@
+# latentco
+Our web presence.
