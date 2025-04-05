@@ -1,2 +1,3 @@
-# latentco
-Our web presence.
+# Latent Co
+
+Hello World
